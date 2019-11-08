@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Game Preview](#Game Preview)
-- [How to Play](#How to Play)
+- [Game Preview](#Game-Preview)
+- [How to Play](#How-to-Play)
 - [Instructions](#instructions)
 - [Contributing](#contributing)
 
